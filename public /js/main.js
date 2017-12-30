@@ -1,0 +1,1 @@
+console.log('the js is loaded');
